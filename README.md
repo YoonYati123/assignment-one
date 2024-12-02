@@ -6,8 +6,8 @@ git config --global user.name "Yoon Yati"
 git config --global user.email "yoonyati12324@gmail.com"
 
 # Create a new project
-mkdir my-git-project
-cd my-git-project
+mkdir assignment-one
+cd assignment-one
 git init
 
 # Create README file
